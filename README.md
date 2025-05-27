@@ -14,6 +14,8 @@ Este projeto implementa o algoritmo **A\*** para resolver o clássico quebra-cab
 Neste arquivo, o jogo é resolvido automaticamente utilizando o **algoritmo A\***.  
 A IA utiliza uma **fila de prioridade (heap)** para sempre escolher o estado mais promissor com base na função de avaliação:
 
+[Collab](https://colab.research.google.com/drive/1c2x14WEmyIQRnmxII3-CEuzrTBBP9p0P?usp=sharing)
+
 ```
 f(n) = g(n) + h(n)
 ```
@@ -31,6 +33,8 @@ O algoritmo mostra passo a passo a resolução e estatísticas como:
 
 Neste modo, o usuário interage com o quebra-cabeça manualmente, movendo as peças com comandos.  
 Ideal para quem deseja testar suas habilidades de resolução lógica e comparar com a solução da IA.
+
+[Collab](https://colab.research.google.com/drive/1cAcPTmUZLV-vKM4XkWDtjQV0yX2LDy2X?usp=sharing)
 
 ## 🧠 Heurísticas utilizadas
 
