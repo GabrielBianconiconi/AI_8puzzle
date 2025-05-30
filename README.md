@@ -2,6 +2,8 @@
 
 Este projeto implementa o algoritmo **A\*** para resolver o clássico quebra-cabeça **8-Puzzle**, utilizando heurísticas admissíveis (distância de Manhattan e peças fora do lugar). O código é dividido em duas abordagens: uma **automática** controlada por IA e uma **manual**, onde o usuário resolve o puzzle.
 
+Link Canvas: [Aqui](https://www.canva.com/design/DAGokmNDR8Q/oYX02Ukb5BALIbMEA4dJ2A/edit?utm_content=DAGokmNDR8Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## 📁 Estrutura do Projeto
 
 ```
